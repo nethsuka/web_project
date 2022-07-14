@@ -1,0 +1,61 @@
+body{
+     background-image:url("Log_background.jpg");
+      }
+#lol{
+     margin:auto;
+     background-color:#808080;
+     padding:30px;
+     opacity:0.9;
+     overflow:hidden;
+     border-radius:15px;
+     width:515px;
+         }
+label{
+      font-family:arial;
+      font-size:15px;
+      color:white;
+      font-weight:bold;
+       }
+h2{
+    color:white;
+    text-align:center;
+      }
+
+#ro,#no,#mo,#ko{
+    width:270px;
+    height:30px;
+    border:none;
+    border-radius:5px;
+    font-size:15px;
+    font-family:arial;
+       }
+#ho,#bo{
+    width:160px;
+    height:30px;
+    border:none;
+    border-radius:5px;
+    font-size:15px;
+    font-family:arial;
+       }
+#joo{
+    width:270px;
+    height:30px;
+    border:none;
+    border-radius:5px;
+    font-size:15px;
+    font-family:arial;
+    background-color:#FF8C00;
+    font-weight:bold;
+       }
+h2{
+   font-family:arial;
+   color:black;
+     }
+#preloader{
+        background: white url(loading_anime.gif) no-repeat center center;
+        background-size: 6%;
+        height: 100vh;
+        width: 100%;
+        position: fixed;
+        z-index: 100;
+      }
